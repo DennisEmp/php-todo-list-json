@@ -1,4 +1,4 @@
-<script setup>
+<script>
 import AppMain from './components/AppMain.vue'
 
 export default {
